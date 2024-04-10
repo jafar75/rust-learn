@@ -1,0 +1,1 @@
+One can use closures as callbacks!
